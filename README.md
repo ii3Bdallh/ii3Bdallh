@@ -51,7 +51,8 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 - [!LinkedIn](https://www.linkedin.com/in/abdallh-mamdouh-878067338/)
-- [!WhatsApp](https://wa.me/201096366301) 
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201096366301)
+
 
 
 ## Thanks for visiting!
