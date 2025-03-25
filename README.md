@@ -50,8 +50,8 @@ Here are some of the projects I've worked on:
    - GitHub: https://github.com/ii3Bdallh/ecommerce_user
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abdallh-mamdouh-878067338/)
-- [WhatsApp](https://wa.me/201096366301) 📞
+- [!LinkedIn](https://www.linkedin.com/in/abdallh-mamdouh-878067338/)
+- [!WhatsApp](https://wa.me/201096366301) 
 
 
 ## Thanks for visiting!
