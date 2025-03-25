@@ -31,7 +31,7 @@ Here are some of the projects I've worked on:
   - **Marker customization**: Uses custom markers for different entities.
   - **Dark mode support**: Includes a dark mode map style.
 
-   - GitHub: https://github.com/Abdallho79/indriveclone
+   - GitHub: https://github.com/ii3Bdallh/indrive
 
 2. **🛒 E-Commerce App**
    - Description: This project is a full-featured e-commerce application built with Flutter. It provides a seamless shopping experience with features such as:
@@ -47,13 +47,12 @@ Here are some of the projects I've worked on:
   - **User-friendly interface**: Intuitive and easy-to-navigate UI.
   - **Backend integration**: Connects to a backend for data management.
   
-   - GitHub: https://github.com/Abdallho79/ecommerce-user
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallho79&show_icons=true&theme=radical)
+   - GitHub: https://github.com/ii3Bdallh/ecommerce_user
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abdallh-mamdouh-b3870130a/)
+- [LinkedIn](https://www.linkedin.com/in/abdallh-mamdouh-878067338/)
+- [WhatsApp](https://wa.me/201096366301) 📞
+
 
 ## Thanks for visiting!
 Feel free to reach out if you have any questions or just want to connect. Have a great day! 😊
