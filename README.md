@@ -53,6 +53,7 @@ Here are some of the projects I've worked on:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallh-mamdouh-878067338/)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201096366301)
 
+<!--
 ### 🌎 International Freelancing Platforms  
 - [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)  
 - [![Freelancer](https://img.shields.io/badge/Freelancer-007fed?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/)  
@@ -62,11 +63,11 @@ Here are some of the projects I've worked on:
 - [![We Work Remotely](https://img.shields.io/badge/We_Work_Remotely-ffcc00?style=for-the-badge)](https://weworkremotely.com/)  
 
 ### 🏆 Arabic Freelancing Platforms  
-- [![Mostaql](https://img.shields.io/badge/Mostaql-ff6600?style=for-the-badge)](https://mostaql.com/) – منصة شبيهة بـ Upwork ولكن باللغة العربية  
-- [![Khamsat](https://img.shields.io/badge/Khamsat-ffaa00?style=for-the-badge)](https://khamsat.com/) – منصة لبيع الخدمات المصغرة مثل Fiverr  
-- [![Ureed](https://img.shields.io/badge/Ureed-00bfff?style=for-the-badge)](https://www.ureed.com/) – منصة عربية للكتابة والترجمة  
-- [![TasmeemME](https://img.shields.io/badge/TasmeemME-ff3366?style=for-the-badge)](https://www.tasmeemme.com/) – موقع خاص بالمصممين العرب  
-
+- [![Mostaql](https://img.shields.io/badge/Mostaql-ff6600?style=for-the-badge)](https://mostaql.com/) 
+- [![Khamsat](https://img.shields.io/badge/Khamsat-ffaa00?style=for-the-badge)](https://khamsat.com/) 
+- [![Ureed](https://img.shields.io/badge/Ureed-00bfff?style=for-the-badge)](https://www.ureed.com/) 
+- [![TasmeemME](https://img.shields.io/badge/TasmeemME-ff3366?style=for-the-badge)](https://www.tasmeemme.com/) 
+-->
 
 
 
